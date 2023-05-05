@@ -1,5 +1,5 @@
 const user = {
-  name: "Liza",
+  name: "Melaine",
   city: "New York",
   bio: "I made this!",
   color: "firebrick",
